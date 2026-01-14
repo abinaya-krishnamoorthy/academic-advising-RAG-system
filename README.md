@@ -7,7 +7,7 @@ This system was built using **Python, LangChain, ChromaDB, and Streamlit**, and 
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 The goal of this project is to create an AI assistant that helps students quickly find accurate advising information without manually searching through multiple documents. The system retrieves relevant context from a unified vector database and generates grounded answers.
 
 The project includes:
@@ -21,7 +21,7 @@ The project includes:
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 ### ✔ Multi-format Document Ingestion
 Handles:
@@ -82,7 +82,7 @@ User interface includes:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 academic-advising-RAG-system/
